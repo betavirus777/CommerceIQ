@@ -1,55 +1,55 @@
 {
-  "posts": [
-    {
-      "id": "3e7021ef-d716-4d10-9103-dcef0c17e727",
-      "title": "title1",
-      "author": "CIQ",
-      "views": 100,
-      "reviews": 31
-    },
-    {
-        "id": "3e7021ef-d716-4d10-9103-dcef0c17e727",
-        "title": "title2",
-        "author": "CIQ2",
-        "views": 91,
-        "reviews": 32
-    },
-    {
-        "id": "3e7021ef-d716-4d10-9103-dcef0c17e727",
-        "title": "title3",
-        "author": "CIQ3",
-        "views": 95,
-        "reviews": 35
-    }
-  ],
-  "comments": [
-    {
-      "body": "comment2",
-      "id": 1
-    },
-    {
-      "body": "comment2",
-      "id": "6e8f1270-a651-4833-ad95-35ca339a82bc"
-    }
-  ],
-  "authors":[
-    {
-      "id": 0,
-      "first_name": "Commerce",
-      "last_name": "IQ",
-      "posts": 49
-    },
-    {
-        "id": 2,
-        "first_name": "Tarun",
-        "last_name": "IQ",
-        "posts": 100
-    },
+    "posts": [
       {
-        "id": 3,
-        "first_name": "Shivam",
-        "last_name": "IQ",
-        "posts": 2
+        "id": "3e7021ef-d716-4d10-9103-dcef0c17e727",
+        "title": "title1",
+        "author": "CIQ",
+        "views": 100,
+        "reviews": 31
+      },
+      {
+          "id": "3e7021ef-d716-4d10-9103-dcef0c17e727",
+          "title": "title2",
+          "author": "CIQ2",
+          "views": 91,
+          "reviews": 32
+      },
+      {
+          "id": "3e7021ef-d716-4d10-9103-dcef0c17e727",
+          "title": "title3",
+          "author": "CIQ3",
+          "views": 95,
+          "reviews": 35
       }
-  ]
-}
+    ],
+    "comments": [
+      {
+        "body": "comment2",
+        "id": 1
+      },
+      {
+        "body": "comment2",
+        "id": "6e8f1270-a651-4833-ad95-35ca339a82bc"
+      }
+    ],
+    "authors":[
+      {
+        "id": 0,
+        "first_name": "Commerce",
+        "last_name": "IQ",
+        "posts": 49
+      },
+      {
+          "id": 2,
+          "first_name": "Tarun",
+          "last_name": "IQ",
+          "posts": 100
+      },
+        {
+          "id": 3,
+          "first_name": "Shivam",
+          "last_name": "IQ",
+          "posts": 2
+        }
+    ]
+  }
